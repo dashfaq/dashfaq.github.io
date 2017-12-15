@@ -93,9 +93,9 @@
 
 <a name="check-balance">**How do I check my Dash credit balance?**</a> <sup>[[#check-balance](#check-balance)]</sup>
 
-> Check [this link to check your "digital music balance"](https://www.amazon.com/gp/feature.html?tag=slicinc-20&ascsubtag=b6d9ea4ae1b011e788cd9ee15ae9a4c50INT&ie=UTF8&gcIsProcess=0&docId=1000811661) and it should pop up with several balances. Your Dash credits are included in your MP3, video, and software credit balances. It might not be perfectly accurate, if you have other credits applied to your account that could push those numbers higher, but it's the best estimate available.
+> If you want to know if you have *any* credit balance (to check if you did your first setup correctly), try to check out with any shipped-and-sold-by-Amazon item. (If you looking for something that qualifies, try [any AmazonBasics item](https://www.amazon.com/AmazonBasics).) When you start checkout, you'll see "Dash Promotion:	-$4.99" (or a different amount, if your item is cheaper or you've already spent some of the current credit).
 
-> If the balance doesn't come up immediately, click the "Check your balance" button.
+> To see your total balance, check [this link to check your "digital music balance"](https://www.amazon.com/gp/feature.html?tag=slicinc-20&ascsubtag=b6d9ea4ae1b011e788cd9ee15ae9a4c50INT&ie=UTF8&gcIsProcess=0&docId=1000811661) and it should pop up with several balances. Your Dash credits are included in your MP3, video, and software credit balances. It might not be perfectly accurate, if you have other credits applied to your account that could push those numbers higher, but it's the best estimate available. (If the balance doesn't come up immediately, click the "Check your balance" button.)
 
 <a name="when-expire">**When do these credits expire?**</a> <sup>[[#when-expire](#when-expire)]</sup>
 
