@@ -2,33 +2,33 @@
 
 ### General
 
-<a href="#what-is-it">**What is a Dash Button?**</a>  
-<a href="#why-popular">**Why are these popular?**</a>  
+* <a href="#what-is-it">**What is a Dash Button?**</a>  
+* <a href="#why-popular">**Why are these popular?**</a>  
 
 ### Earning Credits
 
-<a href="#earn-credit">**How do I get the credit without ordering an item?**</a>  
-<a href="#cancel-order">**I accidentally ordered something. What now?**</a>  
-<a href="#duplicate-buttons">**Can I get credits from the same type of button? If I get three Tide buttons, will they all give me credits?**</a>  
+* <a href="#earn-credit">**How do I get the credit without ordering an item?**</a>  
+* <a href="#cancel-order">**I accidentally ordered something. What now?**</a>  
+* <a href="#duplicate-buttons">**Can I get credits from the same type of button? If I get three Tide buttons, will they all give me credits?**</a>  
 
 ### Spending Credit
 
-<a href="#what-credit-for">**What can I use these credits for?**</a>   
-<a href="#credits-dont-stack">**Do these credits stack?**</a>  
-<a href="#split-credits">**Can a credit be split between orders?**</a>  
-<a href="#find-amazon-items">**How can I search for Amazon-sold items?**</a> 
+* <a href="#what-credit-for">**What can I use these credits for?**</a>   
+* <a href="#credits-dont-stack">**Do these credits stack?**</a>  
+* <a href="#split-credits">**Can a credit be split between orders?**</a>  
+* <a href="#find-amazon-items">**How can I search for Amazon-sold items?**</a> 
 
 ### Credit Balance
 
-<a href="#check-balance">**How do I check my Dash credit balance?**</a>  
-<a href="#when-expire">**When do these credits expire?**</a>  
-<a href="#cancel-prime">**If I end my Prime membership, will my credits disappear?**</a>  
+* <a href="#check-balance">**How do I check my Dash credit balance?**</a>  
+* <a href="#when-expire">**When do these credits expire?**</a>  
+* <a href="#cancel-prime">**If I end my Prime membership, will my credits disappear?**</a>  
 
 ### Miscellaneous
 
-<a href="#not-glad">**Why does everyone hate the Glad button?**</a>  
-<a href="#will-amazon-punish-me">**Will Amazon punish me if I claim credits without ordering anything?**</a>  
-<a href="#repurpose-buttons">**So, I have this worthless button now. What can I do with it?**</a>  
+* <a href="#not-glad">**Why does everyone hate the Glad button?**</a>  
+* <a href="#will-amazon-punish-me">**Will Amazon punish me if I claim credits without ordering anything?**</a>  
+* <a href="#repurpose-buttons">**So, I have this worthless button now. What can I do with it?**</a>  
 
 ## General
 
