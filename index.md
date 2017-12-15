@@ -39,7 +39,7 @@
 
 <a name="why-popular">**Why are these popular?**</a> <sup>[[#why-popular](#why-popular)]</sup>
 
-> No deal hunter is using these to buy anything. They give you a $4.99 Amazon credit on first press (for Amazon-sold items only), and can often be purchased for less than $4.99.
+> No deal hunter is using these to buy anything. They give you a $4.99 Amazon credit on first press (for Amazon-sold items only), and can often be purchased for less than $4.99. It's like buying a discounted $4.99 gift card that can only be used on Amazon-sold items.
 
 ## Earning Credits
 
