@@ -123,7 +123,7 @@
 
 <a name="repurpose-buttons">**So, I have this worthless button now. What can I do with it?**</a> <sup>[[#repurpose-buttons](#repurpose-buttons)]</sup>
 
-> If you wan to throw it away or sell it, you can disassociate it from your account on the "[Content and Devices](https://www.amazon.com/mn/dcw/myx.html#/home/devices/1)" menu. Click the `...` button and select "Deregister".
+> If you want to throw it away or sell it, you can disassociate it from your account on the "[Content and Devices](https://www.amazon.com/mn/dcw/myx.html#/home/devices/1)" menu. Click the `...` button and select "Deregister".
 
 > Alternatives to throwing them out:
 
