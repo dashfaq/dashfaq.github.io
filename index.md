@@ -97,7 +97,7 @@ Title: Amazon Dash Button FAQ for deal hunters
 
 <a name="check-balance">**How do I check my Dash credit balance?**</a> <sup>[[#check-balance](#check-balance)]</sup>
 
-> If you want to know if you have *any* credit balance (to check if you did your first setup correctly), try to check out with any shipped-and-sold-by-Amazon item. (If you looking for something that qualifies, try [any AmazonBasics item](https://www.amazon.com/AmazonBasics).) When you start checkout, you'll see "Dash Promotion:	-$4.99" (or a different amount, if your item is cheaper or you've already spent some of the current credit).
+> If you want to know if you have *any* credit balance (to check if you did your first setup correctly), try to check out with any shipped-and-sold-by-Amazon item. (If you're looking for something that qualifies, try [any AmazonBasics item](https://www.amazon.com/AmazonBasics).) When you start checkout, you'll see "Dash Promotion:	-$4.99" (or a lower amount, if your item is cheaper or you've already spent some of the current credit).
 
 > To see your total balance, check [this link to check your "digital music balance"](https://www.amazon.com/gp/feature.html?tag=slicinc-20&ascsubtag=b6d9ea4ae1b011e788cd9ee15ae9a4c50INT&ie=UTF8&gcIsProcess=0&docId=1000811661) and it should pop up with several balances. Your Dash credits are included in your MP3, video, and software credit balances. It might not be perfectly accurate, if you have other credits applied to your account that could push those numbers higher, but it's the best estimate available. (If the balance doesn't come up immediately, click the "Check your balance" button.)
 
@@ -115,7 +115,7 @@ Title: Amazon Dash Button FAQ for deal hunters
 
 <a name="not-glad">**Why does everyone hate the Glad button?**</a> <sup>[[#not-glad](#not-glad)]</sup>
 
-> The Glad brand button is notorious for not giving the credit. You will need to contact Amazon customer support to tell them issue the credit. The Glad button is the one that does this, and no one knows why.
+> The Glad brand button is notorious for not giving the credit. You will need to contact Amazon customer support to tell them to issue the credit. The Glad button is the only button that does this, and no one knows why.
 
 
 <a name="will-amazon-punish-me">**Will Amazon punish me if I claim credits without ordering anything?**</a> <sup>[[#will-amazon-punish-me](#will-amazon-punish-me)]</sup>
@@ -129,9 +129,8 @@ Title: Amazon Dash Button FAQ for deal hunters
 
 > If you want to throw it away or sell it, you can disassociate it from your account on the "[Content and Devices](https://www.amazon.com/mn/dcw/myx.html#/home/devices/1)" menu. Click the `...` button and select "Deregister".
 
-> Alternatives to throwing them out:
-
->  * You can crack it open to get the AAA battery inside. (Some people have suggested using [plumber's pliers](https://www.google.com/search?q=plumber%27s+pliers).)
->  * You can search for "[dash button hacks](https://www.google.com/search?q=dash+button+hacks)" to learn how to use it for home automation.
+> Alternatives to throwing them out:  
+>  * You can crack it open to get the AAA battery inside. (Some people have suggested using [plumber's pliers](https://www.google.com/search?q=plumber%27s+pliers). You might also try a hammer and/or screwdriver. Be safe!)
+>  * You can search for "[dash button hacks](https://www.google.com/search?q=dash+button+hacks)" to learn how to use it for home automation. Turn on your smart lights with the press of a button, trigger an IFTTT job to call your cell phone, etc.
 >  * After you disassociate the button from your account, you can sell them in bulk on eBay to other people who want to use them for home automation.
  
