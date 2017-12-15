@@ -1,3 +1,7 @@
+---
+Title: Amazon Dash Button FAQ for deal hunters
+---
+
 # Amazon Dash Button FAQ for deal hunters
 
 ### General
