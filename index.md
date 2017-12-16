@@ -1,9 +1,3 @@
----
-Title: Amazon Dash Button FAQ for deal hunters
----
-
-# Amazon Dash Button FAQ for deal hunters
-
 ### General
 
 * <a href="#what-is-it">**What is a Dash Button?**</a>  
@@ -57,8 +51,7 @@ Title: Amazon Dash Button FAQ for deal hunters
 
 <a name="cancel-order">**I accidentally ordered something. What now?**</a> <sup>[[#cancel-order](#cancel-order)]</sup>
 
-> If you do complete the second step and order something by mistake, you can cancel the order and the credit will remain in your account.
-
+> If you do complete the second step and order something by mistake, you can cancel the order and the credit will remain in your account.  
 > If the order gets shipped and you return it, you will **not** get the credit refunded. In that case, it will be lost.
 
 
@@ -109,7 +102,7 @@ Title: Amazon Dash Button FAQ for deal hunters
 
 <a name="cancel-prime">**If I end my Prime membership, will my credits disappear?**</a> <sup>[[#cancel-prime](#cancel-prime)]</sup>
 
-> I don't know. If you do know, please [file an issue](https://github.com/dashfaq/dashfaq.github.io/issues) with the answer.
+> There are reports that the credits are completely unrelated to Prime membership. If that's true, then your credits will persist after ending Prime. In fact, while you need a Prime membership to order Dash Buttons, if you somehow got a brand new one and activated it on a non-Prime account, it would probably give you the cedit just the same. I am not 100% sure about this, but those are the 
 
 ## Miscellaneous
 
@@ -127,7 +120,7 @@ Title: Amazon Dash Button FAQ for deal hunters
 
 <a name="repurpose-buttons">**So, I have this worthless button now. What can I do with it?**</a> <sup>[[#repurpose-buttons](#repurpose-buttons)]</sup>
 
-> If you want to throw it away or sell it, you can disassociate it from your account on the "[Content and Devices](https://www.amazon.com/mn/dcw/myx.html#/home/devices/1)" menu. Click the `...` button and select "Deregister".
+> If you want to throw it away or sell it, you can disassociate it from your account on the "[Content and Devices](https://www.amazon.com/mn/dcw/myx.html#/home/devices/1)" menu. Make sure you're on the "Devices" submenu (rather than the "Content" submenu). Click the `...` button for the Dash Button and select "Deregister".
 
 > Alternatives to throwing them out:  
 >  * You can crack it open to get the AAA battery inside. (Some people have suggested using [plumber's pliers](https://www.google.com/search?q=plumber%27s+pliers). You might also try a hammer and/or screwdriver. Be safe!)
