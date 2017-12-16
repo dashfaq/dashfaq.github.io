@@ -72,7 +72,7 @@ Title: Amazon Dash Button FAQ for deal hunters
 
 <a name="what-credit-for">**What can I use these credits for?**</a> <sup>[[#what-credit-for](#what-credit-for)]</sup>
 
-> These credits can only be spent on items that are marked "Shipped and sold by Amazon". If you order an item sold by anyone else (even if "fulfilled by Amazon"), the credit will not apply to that item.
+> These credits can only be spent on items that are marked "Shipped and sold by Amazon". If you order an item sold by anyone else (even if "fulfilled by Amazon"), the credit will not apply to that item. Note that "Shipped and sold by Amazon" is not the same as eligible for Prime shipping -- there are many items that have Prime shipping that are not sold by Amazon.
 
 > Dash credits cannot be used to buy more Dash buttons. (This used to be possible, but no more.)
 
