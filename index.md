@@ -102,7 +102,7 @@
 
 <a name="cancel-prime">**If I end my Prime membership, will my credits disappear?**</a> <sup>[[#cancel-prime](#cancel-prime)]</sup>
 
-> There are reports that the credits are completely unrelated to Prime membership. If that's true, then your credits will persist after ending Prime. In fact, while you need a Prime membership to order Dash Buttons, if you somehow got a brand new one and activated it on a non-Prime account, it would probably give you the cedit just the same. I am not 100% sure about this, but those are the 
+> There are reports that the credits are completely unrelated to Prime membership. If that's true, then your credits will persist after ending Prime. In fact, while you need a Prime membership to order Dash Buttons, if you somehow got a brand new one and activated it on a non-Prime account, it would probably give you the cedit just the same. I am not 100% sure about this, but those are the most plausible reports I've seen. If you have a firsthand account, please [file an issue](https://github.com/dashfaq/dashfaq.github.io/issues) with more details.
 
 ## Miscellaneous
 
