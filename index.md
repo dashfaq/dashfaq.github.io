@@ -8,7 +8,7 @@
 * <a href="#earn-credit">**How do I get the credit without ordering an item?**</a>  
 * <a href="#cancel-order">**I accidentally ordered something. What now?**</a>  
 * <a href="#duplicate-buttons">**Can I get credits from the same type of button? If I get three Tide buttons, will they all give me credits?**</a>  
-* <a name="no-limit">**Can I earn more than one Dash credit on my account at the time?**</a>  
+* <a href="#no-limit">**Can I earn more than one Dash credit on my account at the time?**</a>  
 
 ### Spending Credit
 
