@@ -95,7 +95,7 @@
 > To find your total Dash credit balance:  
 > 1. Find your "Amazon MP3" balance [this link](https://www.amazon.com/gp/feature.html?tag=slicinc-20&ascsubtag=b6d9ea4ae1b011e788cd9ee15ae9a4c50INT&ie=UTF8&gcIsProcess=0&docId=1000811661). (If the balance doesn't come up immediately, click the "Check your balance" button.)
 > 2. Check [this link](https://www.amazon.com/norushcredits?tag=aftvn-20) to see if you have any "Digital Rewards" credits for no-rush shipping.
-> 3. Subtract any no-rush Digital Rewards from your Amazon MP3 balance to find the value of your your Dash credits only.
+> 3. Subtract any no-rush Digital Rewards from your Amazon MP3 balance to find the value of your Dash credits only.
 
 > If you have other active credits besides no-rush credits on your account, it might not be perfectly accurate, but it's the best estimate available.
 
