@@ -92,7 +92,9 @@
 
 > If you want to know if you have *any* credit balance (to check if you did your first setup correctly), try to check out with any shipped-and-sold-by-Amazon item. (If you're looking for something that qualifies, try [any AmazonBasics item](https://www.amazon.com/AmazonBasics).) When you start checkout, you'll see "Dash Promotion:	-$4.99" (or a lower amount, if your item is cheaper or you've already spent some of the current credit).
 
-> To see your total balance, check [this link to check your "digital music balance"](https://www.amazon.com/gp/feature.html?tag=slicinc-20&ascsubtag=b6d9ea4ae1b011e788cd9ee15ae9a4c50INT&ie=UTF8&gcIsProcess=0&docId=1000811661) and it should pop up with several balances. Your Dash credits are included in your MP3, video, and software credit balances. It might not be perfectly accurate, if you have other credits applied to your account that could push those numbers higher, but it's the best estimate available. (If the balance doesn't come up immediately, click the "Check your balance" button.)
+> To see your total balance, first check your [credits for no-rush shipping](https://www.amazon.com/norushcredits?tag=aftvn-20), then check [this link to see your "digital music balance"](https://www.amazon.com/gp/feature.html?tag=slicinc-20&ascsubtag=b6d9ea4ae1b011e788cd9ee15ae9a4c50INT&ie=UTF8&gcIsProcess=0&docId=1000811661) and it should pop up with several balances. (If the balance doesn't come up immediately in the second link, click the "Check your balance" button.) Your "Amazon MP3" balance there should be your Dash credits plus no-rush credits, so you can figure out your Dash credit only by subtracting your no-rush balance from the total in the second link.
+
+> It might not be perfectly accurate, if you have other active credits besides no-rush credits, but it's the best estimate available.
 
 <a name="when-expire">**When do these credits expire?**</a> <sup>[[#when-expire](#when-expire)]</sup>
 
