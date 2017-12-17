@@ -8,6 +8,7 @@
 * <a href="#earn-credit">**How do I get the credit without ordering an item?**</a>  
 * <a href="#cancel-order">**I accidentally ordered something. What now?**</a>  
 * <a href="#duplicate-buttons">**Can I get credits from the same type of button? If I get three Tide buttons, will they all give me credits?**</a>  
+* <a name="no-limit">**Can I earn more than one Dash credit on my account at the time?**</a>  
 
 ### Spending Credit
 
@@ -49,9 +50,12 @@
 
 > The trick is to push the button *after* the first step but *before* the second step. Simply quit the setup process by hitting the top-right `X` when asked to select an item. Amazon will give you the credit when you push the button, but it's not configured to order anything.
 
+> Don't forget to actually push the button! Credit is awarded after you press a registered button, not after registration itself.
+
 <a name="cancel-order">**I accidentally ordered something. What now?**</a> <sup>[[#cancel-order](#cancel-order)]</sup>
 
-> If you do complete the second step and order something by mistake, you can cancel the order and the credit will remain in your account.  
+> If you do complete the second step and order something by mistake, you can cancel the order and the credit will remain in your account.
+
 > If the order gets shipped and you return it, you will **not** get the credit refunded. In that case, it will be lost.
 
 
@@ -59,6 +63,10 @@
 
 > Yes. You can use duplicates of the same type of button, and they will all give you credit.
 
+
+<a name="no-limit">**Can I earn more than one Dash credit on my account at the time?**</a> <sup>[[#no-limit](#no-limit)]</sup>
+
+> Your account can store an unlimited number of Dash credits for future use. [Only one credit will apply to an order](#credits-dont-stack) at a time; they must be used in sequence.
 
 
 ## Spending Credit
@@ -81,6 +89,8 @@
 
 > Furthermore, if you have more credits waiting, you can use them to "fill up" a partially spent credit back up to $4.99. So if you have two credits, and spend $3.99 of a credit on one order, your next order can use the remaining $1, as well as $3.99 of the second credit.
 
+> You can think of your Dash credits as one mass pool of credit that can only be used up in per-order amounts of $4.99 or less.
+
 <a name="find-amazon-items">**How can I search for Amazon-sold items?**</a> <sup>[[#find-amazon-items](#find-amazon-items)]</sup>
 
 > Limit your search to a specific department, using the drop-down to the left of the search bar. When you do, your search results will have a "Seller" filter on the left side. It will include an "Amazon.com" option if any Amazon-sold items are available.
@@ -93,7 +103,7 @@
 > If you want to know if you have *any* credit balance (to check if you did your first setup correctly), try to check out with any shipped-and-sold-by-Amazon item. (If you're looking for something that qualifies, try [any AmazonBasics item](https://www.amazon.com/AmazonBasics).) When you start checkout, you'll see "Dash Promotion:	-$4.99" (or a lower amount, if your item is cheaper or you've already spent some of the current credit).
 
 > To find your total Dash credit balance:  
-> 1. Find your "Amazon MP3" balance [this link](https://www.amazon.com/gp/feature.html?tag=slicinc-20&ascsubtag=b6d9ea4ae1b011e788cd9ee15ae9a4c50INT&ie=UTF8&gcIsProcess=0&docId=1000811661). (If the balance doesn't come up immediately, click the "Check your balance" button.)
+> 1. Find your "Amazon MP3" balance at [this link](https://www.amazon.com/gp/feature.html?tag=slicinc-20&ascsubtag=b6d9ea4ae1b011e788cd9ee15ae9a4c50INT&ie=UTF8&gcIsProcess=0&docId=1000811661). (If the balance doesn't come up immediately, click the "Check your balance" button.)
 > 2. Check [this link](https://www.amazon.com/norushcredits?tag=aftvn-20) to see if you have any "Digital Rewards" credits for no-rush shipping.
 > 3. Subtract any no-rush Digital Rewards from your Amazon MP3 balance to find the value of your Dash credits only.
 
@@ -107,7 +117,7 @@
 
 <a name="cancel-prime">**If I end my Prime membership, will my credits disappear?**</a> <sup>[[#cancel-prime](#cancel-prime)]</sup>
 
-> There are reports that the credits are completely unrelated to Prime membership. If that's true, then your credits will persist after ending Prime. In fact, while you need a Prime membership to order Dash Buttons, if you somehow got a brand new one and activated it on a non-Prime account, it would probably give you the cedit just the same. I am not 100% sure about this, but those are the most plausible reports I've seen. If you have a firsthand account, please [file an issue](https://github.com/dashfaq/dashfaq.github.io/issues) with more details.
+> There are reports that credits persist after ending your Prime membership. In fact, although you need a Prime membership to order Dash Buttons, if you somehow got a brand new one and activated it on a non-Prime account, it would probably give cedit to that non-Prime account just the same. I am not 100% sure about this, but those are the most plausible reports I've seen. If you have a firsthand account, please [file an issue](https://github.com/dashfaq/dashfaq.github.io/issues) with more details.
 
 ## Miscellaneous
 
