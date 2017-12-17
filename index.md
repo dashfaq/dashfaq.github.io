@@ -79,7 +79,7 @@
 
 > Yes, if you apply a credit to something less than $5, the remainder will apply to your next eligible order.
 
-> However, if you have more credits waiting, you can't use them until the current credit is spent out. So if you have two credits, and spend $3.99 of a credit on one order, your next order can use the remaining $1, but cannot yet use any part of the next $4.99 credit.
+> Furthermore, if you have more credits waiting, you can use them to "fill up" a partially spent credit back up to $4.99. So if you have two credits, and spend $3.99 of a credit on one order, your next order can use the remaining $1, as well as $3.99 of the second credit.
 
 <a name="find-amazon-items">**How can I search for Amazon-sold items?**</a> <sup>[[#find-amazon-items](#find-amazon-items)]</sup>
 
